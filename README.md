@@ -1,1 +1,2 @@
-# react-native-1
+# Blog-App
+React native blog app
